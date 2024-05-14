@@ -9,6 +9,9 @@ int main()
     Circle c3(10, -15, 4.6);
     Circle c4(6, -12, -2.5);
 
+    // Using getNumberOfCurrentCircles()
+    std::cout << "Circle count: " << Circle::getNumberOfCurrentCircles() << std::endl;
+
     // Displaying Circle 1 information
     std::cout << "Circle 1" << std::endl;
     c1.displayCircle();
@@ -36,7 +39,7 @@ int main()
     // Using translateXY() for Circle 4
     std::cout << "Translating Circle 4" << std::endl;
     c4.translateXY(-11, 27);
-    std::cout << "Circle 4" << std::endl;
+    std::cout << "Circle 4" << std::endl; // Displaying information
     c4.displayCircle();
     std::cout << "Area: " << c4.computeArea() << std::endl;
     std::cout << std::endl;
@@ -51,7 +54,7 @@ int main()
     {
         std::cout << e << std::endl;
     }
-    std::cout << "Circle 2" << std::endl;
+    std::cout << "Circle 2" << std::endl; // Displaying informaion
     c2.displayCircle();
     std::cout << "Area: " << c2.computeArea() << std::endl;
     std::cout << std::endl;
@@ -66,7 +69,7 @@ int main()
     {
         std::cout << e << std::endl;
     }
-    std::cout << "Circle 2" << std::endl;
+    std::cout << "Circle 2" << std::endl; // Displaying information
     c2.displayCircle();
     std::cout << "Area: " << c2.computeArea() << std::endl;
     std::cout << std::endl;

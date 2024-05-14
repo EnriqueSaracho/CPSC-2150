@@ -2,7 +2,14 @@
 
 ## Contents
 
-- Pointers
-  - Dangling error
-- 'new' and 'delete' operator
-- Array and dynamic arrays
+- Object-Oriented Programming Using C++
+  - Pointers in C++
+  - Arrays in C++
+- Review on C++
+  - Functions
+  - Variables and Scopes
+  - Classes and Objects
+  - Templates
+  - Vectors
+- Exceptions
+- Complexity Analysis

@@ -1,2 +1,7 @@
+# Lab instruction files
 *.pdf
+
+# Assignment submission folders
+*-lab?
+*-lab??
 *.zip
