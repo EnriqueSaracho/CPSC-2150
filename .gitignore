@@ -5,3 +5,12 @@
 *-lab?
 *-lab??
 *.zip
+
+# Microsoft word documents
+*.docx
+
+# .tmp files
+*.tmp
+
+# .exe files
+*.exe
