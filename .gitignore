@@ -1,4 +1,4 @@
-# Lab instruction files
+# Lab instruction files & other pdf files
 *.pdf
 
 # Assignment submission folders
@@ -14,3 +14,9 @@
 
 # .exe files
 *.exe
+
+# Lecture presentations
+/Lectures/
+
+# Environmental Setting material
+/Environmental Setting/

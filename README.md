@@ -19,3 +19,4 @@
   - Singular linked list
   - Circular linked list
   - Double linked list
+- Recursion
