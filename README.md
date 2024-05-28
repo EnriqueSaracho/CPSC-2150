@@ -20,3 +20,5 @@
   - Circular linked list
   - Double linked list
 - Recursion
+- Stacks
+- Queues
