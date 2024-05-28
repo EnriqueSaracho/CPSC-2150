@@ -15,8 +15,6 @@
 # .exe files
 *.exe
 
-# Lecture presentations
+# Unnecessary folders
 /Lectures/
-
-# Environmental Setting material
 /Environmental Setting/
