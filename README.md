@@ -22,3 +22,4 @@
 - Recursion
 - Stacks
 - Queues
+- Trees

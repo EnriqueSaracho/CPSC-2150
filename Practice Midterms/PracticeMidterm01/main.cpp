@@ -6,14 +6,19 @@ void print(Node *h);
 
 int main()
 {
-    Node *p = new Node{3, new Node{5, new Node{2, new Node{7, new Node{4, nullptr}}}}};
-    // p -> 3 -> 5 -> 2 -> 7 -> 4 -> nullptr
-    print(p);
-    std::cout << "max: " << max(p) << std::endl;
+    // Node *p = new Node{3, new Node{5, new Node{2, new Node{7, new Node{4, nullptr}}}}};
+    // // p -> 3 -> 5 -> 2 -> 7 -> 4 -> nullptr
+    // print(p);
+    // std::cout << "max: " << max(p) << std::endl;
 
-    Node *q = nullptr;
-    print(q);
-    std::cout << "max: " << max(q) << std::endl;
+    // Node *q = nullptr;
+    // print(q);
+    // std::cout << "max: " << max(q) << std::endl;
+
+    int n = 1;
+    int &k = n;
+    k = 2;
+    std::cout << n << std::endl;
 }
 
 void print(Node *h)
