@@ -1,0 +1,1201 @@
+
+Date: 1/1/2018
+Number of customers served:         0
+Number of customers refused:        0
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 2/1/2018
+Number of customers served:         144
+Number of customers refused:        356
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 3/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 4/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 5/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    4
+Number of rooms freed:              4
+
+Date: 6/1/2018
+Number of customers served:         3
+Number of customers refused:        497
+Number of customers checked out:    4
+Number of rooms freed:              8
+
+Date: 7/1/2018
+Number of customers served:         3
+Number of customers refused:        497
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 8/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    10
+Number of rooms freed:              10
+
+Date: 9/1/2018
+Number of customers served:         5
+Number of customers refused:        495
+Number of customers checked out:    0
+Number of rooms freed:              2
+
+Date: 10/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 11/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 12/1/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              3
+
+Date: 13/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 14/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 15/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 16/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    7
+Number of rooms freed:              7
+
+Date: 17/1/2018
+Number of customers served:         4
+Number of customers refused:        496
+Number of customers checked out:    0
+Number of rooms freed:              2
+
+Date: 18/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 19/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 20/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 21/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 22/1/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              2
+
+Date: 23/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 24/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 25/1/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              4
+
+Date: 26/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 27/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 28/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 29/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 30/1/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 31/1/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              8
+
+Date: 1/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 2/2/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    11
+Number of rooms freed:              12
+
+Date: 3/2/2018
+Number of customers served:         8
+Number of customers refused:        492
+Number of customers checked out:    0
+Number of rooms freed:              2
+
+Date: 4/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 5/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 6/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 7/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 8/2/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              6
+
+Date: 9/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 10/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 11/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 12/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 13/2/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 14/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 15/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 16/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 17/2/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              4
+
+Date: 18/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 19/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 20/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 21/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 22/2/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    11
+Number of rooms freed:              13
+
+Date: 23/2/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 24/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 25/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 26/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 27/2/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 28/2/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 1/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 2/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 3/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 4/3/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              3
+
+Date: 5/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 6/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 7/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 8/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 9/3/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              1
+
+Date: 10/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    7
+Number of rooms freed:              7
+
+Date: 11/3/2018
+Number of customers served:         3
+Number of customers refused:        497
+Number of customers checked out:    0
+Number of rooms freed:              3
+
+Date: 12/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 13/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 14/3/2018
+Number of customers served:         5
+Number of customers refused:        495
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 15/3/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 16/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 17/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 18/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 19/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 20/3/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 21/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 22/3/2018
+Number of customers served:         8
+Number of customers refused:        492
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 23/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 24/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 25/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 26/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 27/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 28/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 29/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 30/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 31/3/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 1/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 2/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 3/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 4/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 5/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 6/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 7/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 8/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 9/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 10/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 11/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 12/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 13/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 14/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 15/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 16/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 17/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 18/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 19/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 20/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 21/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 22/4/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    11
+Number of rooms freed:              16
+
+Date: 23/4/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              2
+
+Date: 24/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 25/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 26/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 27/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 28/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 29/4/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 30/4/2018
+Number of customers served:         5
+Number of customers refused:        495
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 1/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 2/5/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              4
+
+Date: 3/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    7
+Number of rooms freed:              7
+
+Date: 4/5/2018
+Number of customers served:         4
+Number of customers refused:        496
+Number of customers checked out:    0
+Number of rooms freed:              4
+
+Date: 5/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 6/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 7/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 8/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 9/5/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              1
+
+Date: 10/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    7
+Number of rooms freed:              7
+
+Date: 11/5/2018
+Number of customers served:         3
+Number of customers refused:        497
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 12/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 13/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 14/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 15/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 16/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 17/5/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              6
+
+Date: 18/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 19/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 20/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 21/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 22/5/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              2
+
+Date: 23/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 24/5/2018
+Number of customers served:         9
+Number of customers refused:        491
+Number of customers checked out:    0
+Number of rooms freed:              3
+
+Date: 25/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 26/5/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 27/5/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 28/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    4
+Number of rooms freed:              4
+
+Date: 29/5/2018
+Number of customers served:         2
+Number of customers refused:        498
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 30/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 31/5/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    7
+Number of rooms freed:              7
+
+Date: 1/6/2018
+Number of customers served:         4
+Number of customers refused:        496
+Number of customers checked out:    0
+Number of rooms freed:              7
+
+Date: 2/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 3/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 4/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 5/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 6/6/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              2
+
+Date: 7/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 8/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 9/6/2018
+Number of customers served:         6
+Number of customers refused:        494
+Number of customers checked out:    0
+Number of rooms freed:              1
+
+Date: 10/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 11/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 12/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 13/6/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 14/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 15/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 16/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 17/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 18/6/2018
+Number of customers served:         7
+Number of customers refused:        493
+Number of customers checked out:    0
+Number of rooms freed:              1
+
+Date: 19/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 20/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 21/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 22/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 23/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 24/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 25/6/2018
+Number of customers served:         8
+Number of customers refused:        492
+Number of customers checked out:    0
+Number of rooms freed:              6
+
+Date: 26/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 27/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    4
+Number of rooms freed:              4
+
+Date: 28/6/2018
+Number of customers served:         3
+Number of customers refused:        497
+Number of customers checked out:    7
+Number of rooms freed:              7
+
+Date: 29/6/2018
+Number of customers served:         3
+Number of customers refused:        497
+Number of customers checked out:    0
+Number of rooms freed:              1
+
+Date: 30/6/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    11
+Number of rooms freed:              11
+
+Date: 1/7/2018
+Number of customers served:         8
+Number of customers refused:        492
+Number of customers checked out:    0
+Number of rooms freed:              1
+
+Date: 2/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 3/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    4
+Number of rooms freed:              4
+
+Date: 4/7/2018
+Number of customers served:         4
+Number of customers refused:        496
+Number of customers checked out:    0
+Number of rooms freed:              2
+
+Date: 5/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 6/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 7/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    4
+Number of rooms freed:              4
+
+Date: 8/7/2018
+Number of customers served:         4
+Number of customers refused:        496
+Number of customers checked out:    0
+Number of rooms freed:              2
+
+Date: 9/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    4
+Number of rooms freed:              4
+
+Date: 10/7/2018
+Number of customers served:         2
+Number of customers refused:        498
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 11/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 12/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 13/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 14/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 15/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 16/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    4
+Number of rooms freed:              4
+
+Date: 17/7/2018
+Number of customers served:         4
+Number of customers refused:        496
+Number of customers checked out:    0
+Number of rooms freed:              1
+
+Date: 18/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
+Date: 19/7/2018
+Number of customers served:         0
+Number of customers refused:        500
+Number of customers checked out:    0
+Number of rooms freed:              0
+
