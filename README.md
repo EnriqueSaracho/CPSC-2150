@@ -23,3 +23,4 @@
 - Stacks
 - Queues
 - Trees
+- Heaps
