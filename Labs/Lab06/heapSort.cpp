@@ -1,11 +1,11 @@
 #include <iostream>
 
-void printList(int[], int);      // O(n)
-void buildHeap(int[], int, int); // O(?)
-int findMax(int, int, int);      // O(1)
-int findMax(int, int);           // O(1)
-void swap(int[], int, int);      // O(1)
-void heapSort(int[], int);       // O(?)
+void printList(int[], int);
+void buildHeap(int[], int, int);
+int findMax(int, int, int);
+int findMax(int, int);
+void swap(int[], int, int);
+void heapSort(int[], int);
 
 int main()
 {
@@ -29,7 +29,7 @@ void printList(int data[], int n)
     std::cout << "]" << std::endl;
 }
 
-void buildHeap(int data[], int n, int i)
+void heapify(int data[], int n, int i)
 {
     int left = 2 * i + 1,
         right = 2 * i + 2,
@@ -54,7 +54,7 @@ void buildHeap(int data[], int n, int i)
     if (child < n)
     {
         int subroot = (child - 1) / 2;
-        buildHeap(data, n, subroot);
+        heapify(data, n, subroot);
     }
     return;
 }
@@ -97,8 +97,8 @@ void heapSort(int data[], int n)
     {
 
         int i = (n - 2) / 2;
-        for (; i > -1; i--) // O(logn)
-            buildHeap(data, n, i);
+        for (; i > -1; i--)
+            heapify(data, n, i);
 
         swap(data, 0, n - 1);
         heapSort(data, n - 1);
