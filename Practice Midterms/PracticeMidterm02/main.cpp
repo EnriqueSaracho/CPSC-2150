@@ -1,22 +1,38 @@
 #include <iostream>
 #include <vector>
+#include <queue>
+#include "BST.h"
 
 void printHeap(std::vector<int>);
 int removeTarget(std::vector<int> &, int);
 void moveDown(std::vector<int> &, int);
 
-int main()
+template <class T>
+void breathFirst(BST<T> *p)
 {
-    std::vector<int> heap = {3, 4, 5, 4, 7, 8};
-    printHeap(heap);
-    int deletions = removeTarget(heap, 3);
-    std::cout << deletions << std::endl;
-    printHeap(heap);
+    std::queue<BST<T>> q;
+    q.push(p);
+
+    while(!q.empty())
+    {
+        BST<T> current = q.front();
+        std::cout << current << " ";
+        q.push(current.left);
+        q.push(current.right);
+        q.pop();
+
+    }
 }
 
-// TODO: Maybe counting all instances of target and creating a new list of all the items in the heap that are not target O(n)
-// creating a heap out of that heap O(nlogn)
-// total complexity O(nlogn)
+int main()
+{
+    // std::vector<int> heap = {3, 4, 5, 4, 7, 8};
+    // printHeap(heap);
+    // int deletions = removeTarget(heap, 3);
+    // std::cout << deletions << std::endl;
+    // printHeap(heap);
+}
+
 int removeTarget(std::vector<int> &heap, int target)
 {
     int del = 0;
